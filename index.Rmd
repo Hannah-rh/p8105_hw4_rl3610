@@ -12,3 +12,5 @@ output:
 ![](images/dog.jpg)
 
 This website is a homework coming from the class [P8105](https://p8105.com/index.html). Learn more about this site [here](about.html).
+
+Click [here](resume.html) to visit my resume.

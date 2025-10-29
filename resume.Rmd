@@ -1,0 +1,49 @@
+---
+title: "Ruohan Lyu"
+output: html_document
+---
+
+✉ ruohanlyu@gmail.com | New York, NY  
+
+---
+
+**Education**
+
+**Columbia University** – New York, NY
+
+MS in Biostatistics (Theory and Methods Track)
+
+---
+
+**Research Experience**
+
+**Prediction and Estimation of Human Population Health Based on Health Big Data** – Jun 2025  
+- Built a disease risk prediction model using large-scale health data and Lasso logistic regression.  
+- Identified key health risk factors and improved model accuracy for personalized health management.  
+
+**Clinical Research on ω-3 Fish Oil Fat Emulsion** – Sep 2023 – Sep 2024  
+- Investigated the effect of ω-3 fish oil on reducing gastroparesis incidence after gastric cancer surgery.  
+- Collected clinical data and performed statistical analysis using EmpowerStats.  
+
+**Free Radical Theory and Anti-Aging Mechanisms** – Sep 2023 – Sep 2024  
+- Analyzed the dual role of free radicals in aging and explored applications of cold atmospheric plasma.  
+
+**Biodiversity Awareness Survey among University Students** – Oct 2023  
+- Used clustering and SEM analysis to study students’ conservation awareness and influencing factors.  
+
+---
+
+**Internship**
+
+**Nanjing Mosim Pharmaceutical Technology Co., Ltd** – Nanjing, China  
+Data Analyst Intern | Aug 2024  
+- Analyzed drug approval reports and supported pharmacokinetic data visualization using R.  
+- Assisted in research on generic drug registration and bioequivalence evaluation.  
+
+---
+
+**Skills**
+
+Programming: R, SAS, Python, STATA, SPSS  
+Data Analysis: Regression modeling, hypothesis testing, visualization  
+Languages: English, Mandarin (Native) 
