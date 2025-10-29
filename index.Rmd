@@ -1,0 +1,14 @@
+---
+title: "p8105_hw4_rl3610"
+author: "Ruohan Lyu"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Han's homework 4 website
+
+![](images/dog.jpg)
+
+This website is a homework coming from the class [P8105](https://p8105.com/index.html). Learn more about this site [here](about.html).
