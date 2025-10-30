@@ -9,8 +9,11 @@ output:
 
 # This is Han's homework 4 website
 
-![](images/dog.jpg)
+Hi! I’m **Ruohan Lyu**, a first-year master student in Biostatistics at Columbia University, interested in data science and public health research.
 
 This website is a homework coming from the class [P8105](https://p8105.com/index.html). Learn more about this site [here](about.html).
 
 Click [here](resume.html) to visit my resume.
+
+![](images/dog.jpg)
+
