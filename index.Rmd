@@ -1,6 +1,5 @@
 ---
 title: "p8105_hw4_rl3610"
-author: "Ruohan Lyu"
 output: 
   html_document:
     toc: true
@@ -14,6 +13,8 @@ Hi! I’m **Ruohan Lyu**, a first-year master student in Biostatistics at Columb
 This website is a homework coming from the class [P8105](https://p8105.com/index.html). Learn more about this site [here](about.html).
 
 Click [here](resume.html) to visit my resume.
+
+Click [here](dashboard.html) to visit the dashboard.
 
 ![](images/dog.jpg)
 
